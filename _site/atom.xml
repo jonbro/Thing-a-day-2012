@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>your page's title</title>
+ <link href="http://your.pages.url/atom.xml" rel="self" />
+ <link href="http://your.pages.url/" />
+ <updated>2012-01-01T15:18:26+00:00</updated>
+ <id>http://your.pages.url<id>
+ <author>
+   <name>site.owner-name</name>
+   <email>site.owner-email</email>
+ </author>
+
+ 
+ <entry>
+   <title>Day 1</title>
+   <link href="http://your.pages.url/2012/01/01/Day-1.html" />
+   <updated>2012-01-01T00:00:00+00:00</updated>
+   <id>http://lebobs.ch//2012/01/01/Day-1</id>
+   <content type="html">&lt;h1&gt;Day 1&lt;/h1&gt;
+
+&lt;p&gt;After several years of failed attempts, another attempt at thing a day. The only other year that I did it and it worked out, I had a journal that I posted to, so I am going to try that. The other thing that I did that worked out great for me was switching between project types like 4 times. I know that it breaks the rules, but I am going to give myself that option. I don't know that I am going to excercize it though.&lt;/p&gt;
+
+&lt;p&gt;The first thing that I am doing is going to be writing a short musical loop a day. I built this little sequencer tracker for iPhone over the past few weeks, and I used it for the first one. I hope to use it for others. Right now it has no way to get audio out of it other than holding the mic up to the speaker, so here you go!&lt;/p&gt;
+
+&lt;object height=&quot;81&quot; width=&quot;100%&quot;&gt; &lt;param name=&quot;movie&quot; value=&quot;https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32126355&quot;&gt;&lt;/param&gt; &lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;/param&gt; &lt;embed allowscriptaccess=&quot;always&quot; height=&quot;81&quot; src=&quot;https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32126355&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;100%&quot;&gt;&lt;/embed&gt; &lt;/object&gt;
+
+
+&lt;p&gt;  &lt;span&gt;&lt;a href=&quot;http://soundcloud.com/jonbro/thing-a-day-dundee-2012-1&quot;&gt;Thing a day Dundee 2012 - 1&lt;/a&gt; by &lt;a href=&quot;http://soundcloud.com/jonbro&quot;&gt;jonbro&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

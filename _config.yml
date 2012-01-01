@@ -1,0 +1,8 @@
+markdown: rdiscount
+auto: true
+
+exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test"]
+
+owner-name: Jonathan Brodsky
+owner-page: http://jonbro.tk
+owner-email: jonbro at gmail
